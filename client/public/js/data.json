@@ -1,0 +1,70 @@
+{ 
+    
+    "user" : [
+    {
+        "id": 1,
+        "name" : "feriel kacem",
+        "date" : "24/07/1992",
+        "adresse" : "Tunis/Tunsie",
+        "phone" : " +216 21 046 155",
+        "email" : "ferielkacem92@gmail.com",
+        "web" : "feriel.com"
+
+    }
+] ,
+
+"language" : [
+    {
+        "id": 1,
+        "language" : "Html/css/javaScript",
+        "pourcentage" : "80%"
+        
+
+    },
+    {
+        "id": 2,
+        "language" : "ReactJS",
+        "pourcentage" : "70 %"
+        
+
+    },
+    {
+        "id": 3,
+        "language" : "NodeJS",
+        "pourcentage" : "60 %"
+        
+
+    }
+] ,
+
+
+"home" : [
+    {
+        "id": 1,
+        "titre" : "Welcome to My first React",
+        "sousTitre" : "I Create my firts react project from a to z with Html and CSS and JS6"
+        
+
+    }
+    
+  
+] ,
+
+"about" : [
+    {
+        "id": 1,
+        "titre" : "About Me",
+        "sousTitre" : "Web Developer",
+        "contenu1" : "hSHGhfhGFUYYGFHSfCJSFJHDSJFHDSGHFJGDshjgfsHDGFHJgsdjhfgsjhdGFHJgdshfgjhGDFHJGsdjhghdsj",
+        "contenu2" : "a zmùla   mlmaemùlrmlakzlrmla,z anlkbgeugrioizejpoazpâozk"
+        
+
+    }
+    
+  
+] 
+
+
+
+
+}
